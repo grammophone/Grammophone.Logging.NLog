@@ -1,5 +1,5 @@
 # Grammophone.Logging.NLog
-This library is an implementation of the [Grammophone.Logging](https://github.com/grammophone/Grammophone.Logging)
+This .NET Standard 2.0 library is an implementation of the [Grammophone.Logging](https://github.com/grammophone/Grammophone.Logging)
 abstraction using [NLog](https://github.com/NLog/NLog).
 
 The library expects the following libraries residing in sibling directories:
